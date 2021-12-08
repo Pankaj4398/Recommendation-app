@@ -1,0 +1,45 @@
+_id,countInStock,createdAt,description,image,isActive,name,numReviews,price,public_id,rating,reviews,updatedAt
+61923b606017851328c7d3be,0,2021-11-15T10:50:08.590Z,"<p>A giant delicious burger with a lot of cheese, tomato and salada .</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1636973407/product/vycmy4fhvildxkdmtkux.jpg,true,Giant Burger,1,5000,product/vycmy4fhvildxkdmtkux,3,"[{""rating"":3,""_id"":{""$oid"":""61a4bac06226ce12d0a0d2a1""},""comment"":""Love the Burger "",""user"":{""$oid"":""61a4871aafd693367816fb8f""},""createdAt"":{""$date"":""2021-11-29T11:34:24.564Z""},""updatedAt"":{""$date"":""2021-11-29T11:34:24.564Z""}}]",2021-11-29T11:39:14.615Z
+61a4bd286226ce12d0a0d2a8,0,2021-11-29T11:44:40.872Z,<p>Yummy Rice with lots of mac and cheese</p>,,true,Fried Rice,0,2000,,0,[],2021-12-05T08:11:48.552Z
+61a4bd606226ce12d0a0d2a9,0,2021-11-29T11:45:36.545Z,<p>An Awesome pizza made up if 4 different kinds of cheese</p>,https://res.cloudinary.com/chiragsh2125/image/upload/v1638186333/product/w0f4glf7uqa5cflffu1m.jpg,true,4 Cheese Pizza,0,9000,product/w0f4glf7uqa5cflffu1m,0,[],2021-11-29T11:45:36.545Z
+61acdcf949db919bb4984f89,0,2021-12-05T15:38:33.536Z,<p><strong>a spiced mix of meat and rice</strong></p>,https://res.cloudinary.com/chiragsh2125/image/upload/v1638718713/product/potxologp7fyfelke1ak.jpg,true,Muradabadi Biryani,0,1000,product/potxologp7fyfelke1ak,0,[],2021-12-05T15:38:33.536Z
+61acdd4249db919bb4984f8a,0,2021-12-05T15:39:46.862Z,<p><strong>a spiced mix of meat and rice</strong></p>,https://res.cloudinary.com/chiragsh2125/image/upload/v1638718786/product/w2bffiwznjfezfr67xzw.jpg,true,Thalassery Biryani,0,1000,product/w2bffiwznjfezfr67xzw,0,[],2021-12-05T15:39:46.862Z
+61acdda749db919bb4984f8b,0,2021-12-05T15:41:27.975Z,<p><strong>a spiced mix of meat and rice</strong></p>,https://res.cloudinary.com/chiragsh2125/image/upload/v1638718887/product/s0zfcpy3jt7k4mq7lnbk.jpg,true,Tehari Biryani,0,1200,product/s0zfcpy3jt7k4mq7lnbk,0,[],2021-12-05T15:41:27.975Z
+61ae47ab5e24d134606493f6,0,2021-12-06T17:26:03.981Z,"<p>A <strong>dosa</strong> is a thin pancake or crepe originating from South India, made from a fermented batter predominantly consisting of lentils and rice.&nbsp;&nbsp;</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638811560/product/cowta2l9tdnpdqrsq85b.jpg,true,Mysore Masala Dosa,0,2000,product/cowta2l9tdnpdqrsq85b,0,[],2021-12-06T17:26:03.981Z
+61ae48ce5e24d134606493f7,0,2021-12-06T17:30:54.011Z,"<p>Special Sunny Leone chaap made up with a lot of milk, and hottness.</p>
+<p>&nbsp;</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638811850/product/h9is51gdn4ql3hiqk6dk.jpg,true,Sunny Leone Chap,0,11000,product/h9is51gdn4ql3hiqk6dk,0,[],2021-12-06T17:30:54.011Z
+61ae499f5e24d134606493f8,0,2021-12-06T17:34:23.313Z,"<div class=""jarKte jP1f5"">White sauce pasta is a deliciously creamy and spicy dish. Kid will like to eat it.</div>
+<div class=""xgmLr jarKte"">
+<div class=""x80KQe"">Ingredients</div>
+<ul class=""mI1G0d"">
+<li class=""gnbx1b pjssF"">Pasta 1 cup</li>
+<li class=""gnbx1b pjssF"">Butter (cubes) 4 number</li>
+<li class=""gnbx1b pjssF"">All purpose flour 2 teaspoons</li>
+<li class=""gnbx1b pjssF"">Nutmeg (grated) 1 pinch</li>
+<li class=""gnbx1b pjssF"">Green bell pepper(chopped) 1/4 cup</li>
+</ul>
+</div>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638812060/product/atupg6q9e61izpvnjjvq.jpg,true,Creamy white sauce pasta,0,300,product/atupg6q9e61izpvnjjvq,0,[],2021-12-06T17:34:23.313Z
+61ae68f92b74e02f3c1e771c,0,2021-12-06T19:48:09.682Z,"<p><strong>a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot</strong></p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638820087/product/dm1fdrmspeuvacfxa8cc.jpg,true,Awadhi Biryani,0,1300,product/dm1fdrmspeuvacfxa8cc,0,[],2021-12-06T19:48:09.682Z
+61ae69232b74e02f3c1e771d,0,2021-12-06T19:48:51.786Z,"<p><strong>a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot</strong></p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638820128/product/ft5at2awlgoch98suo6c.png,true,Ambur Biryani,0,1400,product/ft5at2awlgoch98suo6c,0,[],2021-12-06T19:48:51.786Z
+61ae699d2b74e02f3c1e771e,0,2021-12-06T19:50:53.822Z,"<p><strong>a spiced mix of meat and rice, traditionally cooked over an open fire in a leather pot</strong></p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638820251/product/fdgaho8upfkosv9yig60.jpg,true,Kalyani Biryani,0,1100,product/fdgaho8upfkosv9yig60,0,[],2021-12-06T19:50:53.822Z
+61ae6b432b74e02f3c1e771f,0,2021-12-06T19:57:55.497Z,"<p>Contain a scoop of artificially flavored frozen dessert in a ""chocolatey-lined"" sugar cone and dipped in a ""chocolatey"" coating.</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638820673/product/prlgdtelocjgsca8vwoc.png,true,Drum Stick Cone Icecream,0,200,product/prlgdtelocjgsca8vwoc,0,[],2021-12-06T19:57:55.497Z
+61ae6b872b74e02f3c1e7720,0,2021-12-06T19:59:03.860Z,"<div class=""wWOJcd"" tabindex=""0"" role=""button"" aria-controls=""exacc_XGuuYeyTDsGb4-EPm5ieiAQ35"" aria-expanded=""true"" aria-labelledby=""exacc_XGuuYeyTDsGb4-EPm5ieiAQ34"">&nbsp;</div>
+<div id=""exacc_XGuuYeyTDsGb4-EPm5ieiAQ35"" class=""MBtdbb"" data-ved=""2ahUKEwjsscDt-s_0AhXBzTgGHRuMB0EQ7NUEegQIIBAD"">
+<div class=""ymu2Hb"">
+<div id=""_XGuuYeyTDsGb4-EPm5ieiAQ36"" class=""t0bRye r2fjmd"" data-hveid=""CCAQBA"" data-ved=""2ahUKEwjsscDt-s_0AhXBzTgGHRuMB0EQu04oAHoECCAQBA"">
+<div id=""WEB_ANSWERS_RESULT_20_XGuuYeyTDsGb4-EPm5ieiAQ__10"">
+<div class=""wDYxhc"" data-md=""135"">
+<div class=""Crs1tb"" data-hveid=""CBsQAA"">
+<div class=""iKJnec"" role=""heading"" aria-level=""3"">Ingredients Low Fat Vanilla Ice Cream:&nbsp;<strong>Skim Milk, Corn Syrup, Cane Sugar, Cream, Buttermilk, Tapioca Starch, Guar Gum, Pectin</strong>, Natural Flavor.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638820741/product/ijhpkz1546w3jvrz79se.jpg,true,Haagen dazs Brick,0,400,product/ijhpkz1546w3jvrz79se,0,[],2021-12-06T19:59:03.860Z
+61ae6ba62b74e02f3c1e7721,0,2021-12-06T19:59:34.779Z,"<p>Ingredients Low Fat Vanilla Ice Cream:&nbsp;<strong>Skim Milk, Corn Syrup, Cane Sugar, Cream, Buttermilk, Tapioca Starch, Guar Gum, Pectin</strong>, Natural Flavor.</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638820772/product/y6xyww8b85uyplhfywwt.jpg,true,Skinny Cow Cookie Ice cream,0,600,product/y6xyww8b85uyplhfywwt,0,[],2021-12-06T19:59:34.779Z
+61ae6c4c2b74e02f3c1e7722,0,2021-12-06T20:02:20.667Z,<p>hamburger topped with cheese.</p>,https://res.cloudinary.com/chiragsh2125/image/upload/v1638820938/product/mqlctnp2gasjf81l3mxa.jpg,true,Burger King : Cheese burger,0,2000,product/mqlctnp2gasjf81l3mxa,0,[],2021-12-06T20:02:20.667Z
+61ae6cc82b74e02f3c1e7723,0,2021-12-06T20:04:24.506Z,"<p>Two&nbsp;<strong>flame-grilled beef patties</strong>&nbsp;topped with juicy tomatoes, fresh cut lettuce, mayo, pickles, white onions and a swirl of ketchup on a soft sesame seed bun.</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638821062/product/zge3kiby73cqebpmixry.jpg,true,Burger King Double Whopper,0,3000,product/zge3kiby73cqebpmixry,0,[],2021-12-06T20:04:24.506Z
+61ae6d032b74e02f3c1e7724,0,2021-12-06T20:05:23.283Z,<p>The bacon sundae is a sundae prepared using typical sundae ingredients and bacon.</p>,https://res.cloudinary.com/chiragsh2125/image/upload/v1638821121/product/odcpyqwnubhn83itvjis.jpg,true,Bacon sundae,0,200,product/odcpyqwnubhn83itvjis,0,[],2021-12-06T20:05:23.283Z
+61ae6da62b74e02f3c1e7725,0,2021-12-06T20:08:06.916Z,"<p><strong>savory flame-grilled beef patties, topped a with hearty portion of thick-cut smoked bacon, melted American cheese and topped with ketchup and creamy mayonnaise all on a soft sesame seed bun</strong>.</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638821285/product/p4a2nacf8ydlgdeetg4k.jpg,true,Bacon King - Burger King,0,3000,product/p4a2nacf8ydlgdeetg4k,0,[],2021-12-06T20:08:06.916Z
+61ae6dff2b74e02f3c1e7726,0,2021-12-06T20:09:35.388Z,"<p>&nbsp;<strong>two patties, cheese, bacon, and two different sauces on a sesame seed bun</strong>.</p>",https://res.cloudinary.com/chiragsh2125/image/upload/v1638821373/product/sbq5qjwcgaynnzuvrui2.jpg,true,Burger King : Rodeo King,0,5000,product/sbq5qjwcgaynnzuvrui2,0,[],2021-12-06T20:09:35.388Z
