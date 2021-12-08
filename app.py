@@ -9,7 +9,7 @@ from sklearn.neighbors import NearestNeighbors
 
 st.title("Food Recommendation System")
 st.text("Let us help you with ordering")
-st.image("foood.jpg")
+st.image("foood.jpg", width=900)
 
 ## nav = st.sidebar.radio("Navigation",["Home","IF Necessary 1","If Necessary 2"])
 
