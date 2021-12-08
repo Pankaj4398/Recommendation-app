@@ -14,14 +14,14 @@ st.image("foood.jpg")
 ## nav = st.sidebar.radio("Navigation",["Home","IF Necessary 1","If Necessary 2"])
 
 st.subheader("Whats your preference?")
-vegn = st.radio("Vegetables or none!", ["veg", "non-veg"], index=1)
+vegn = st.radio("Vegetables or none!", ["Veg", "Non-Veg"], index=1)
 
 st.subheader("What Cuisine do you prefer?")
 cuisine = st.selectbox("Choose your favourite!", ['Healthy Food', 'Snack', 'Dessert', 'Indian', 'Chinese', 'Beverage'])
 
 
 st.subheader("How well do you want the dish to be?")  #RATING
-val = st.slider("from poor to the best!",0,5)
+val = st.slider("from poor to the best!", 0, 5)
 
 #food = pd.read_csv("input/food.csv")
 #ratings = pd.read_csv("input/ratings.csv")
@@ -77,7 +77,7 @@ display = food_recommendation(finallist)
 
 #recoomended item img pickup
 #print(display)
-res = pd.read_csv('products.csv')
+res = pd.read_csv('items.csv')
 res = res.drop(columns=['_id', 'countInStock', 'createdAt', 'description', 'isActive', 'numReviews', 'price', 'public_id', 'updatedAt', 'reviews'])
 pd.set_option("display.max_colwidth", 100)
 res.dropna(inplace=True)
@@ -92,6 +92,6 @@ if bruh == True:
     if bruh1 == True:
         for i in display:
             x = res[res['name'].isin([i])]
-            st.image(x['image'].to_string(index=False), width=128)
+            st.image(x['image'].to_string(index=False), width=156)
             st.write(i)
 
